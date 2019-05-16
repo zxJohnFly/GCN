@@ -24,7 +24,7 @@ n_bits =  args.n_bits
 n_class = 10
 n_epoch = 14 
 
-n_dim = args.depth
+n_dim = 2048
 
 # dataset: 'cifar10', 'nuswide', 'ImageNet', 'sun'
 dataset = 'cifar10'
