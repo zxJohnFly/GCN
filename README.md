@@ -4,6 +4,7 @@
 * Python2.7
 * PyTorch
 
+You can also download the cifar-10 via http://pan.baidu.com/s/1ntHYDVb.
 
 ## Reference
 
